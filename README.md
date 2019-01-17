@@ -1,14 +1,14 @@
 # Builder Pattern
-* applicability
+## Applicability
 
 # Observer Pattern
-* applicability
+## Applicability
 
 # Chain of reposibility pattern
-applicability
+## Applicability
 
 # Decorator pattern
-* applicability
+## Applicability
 
 # Facade pattern
-* applicability
+## Applicability
