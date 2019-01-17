@@ -1,9 +1,9 @@
-###Builder Pattern
+# Builder Pattern
 
-###Observer Pattern
+# Observer Pattern
 
-###Chain of reposibility pattern
+# Chain of reposibility pattern
 
-###Decorator pattern
+# Decorator pattern
 
-###Facade pattern
+# Facade pattern
